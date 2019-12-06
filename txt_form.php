@@ -48,7 +48,7 @@
             <input type="date" class="form-control" id="indate" name="created_at">
         </div>
         <div class="form-group">
-            <label for="comment">特徴</label>
+            <label for="comment">特徴　テスト</label>
             <textarea class="form-control" id="comment" rows="3" name="comment"></textarea>
         </div>
         <div class="form-group">
